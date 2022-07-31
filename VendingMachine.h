@@ -32,7 +32,6 @@ public:
 	unsigned short getNumOfSlots() const;
 
 	VendingMachine& addSlot(SnackSlot&);			// put the slot into the machine
-	//VendingMachine& getSlot(slot::SnackSlot&) const;		// remove the slot from the machine 
 
 	unsigned short getEmptySlotsNumber();
 
