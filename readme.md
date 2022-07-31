@@ -1,3 +1,1 @@
-this is readme file
-
-this is my first change
+comment is removed from file VendindMachine.h
